@@ -80,7 +80,7 @@ a{
 /* Bonner Area */
 .banner {
   height: 650px;
-  background-image: url(../img/banner.jpg);  /*backim*/
+  background-image: url("../img/banner.jpg");  /*backim*/
   background-size: cover;   /*backsi*/
   background-position: center;   /*backpo*/
   overflow: auto;
